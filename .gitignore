@@ -6,3 +6,10 @@
 
 # R data files from past sessions
 .Rdata
+.Rproj.user
+
+# Digital Elevation
+*.xml
+*.html
+*.zip
+*.dem
